@@ -1,11 +1,11 @@
 <?php
   /*
     Plugin Name: Beaver Wordpress
-    Plugin URI: https://faoziaziz.herokuapp.com
+    Plugin URI: https://github.com/faoziaziz/wp-beaver
     Description: Ini plugin pertama yang saya bikin
     Version: 0.1
     Author: Aziz Amerul Faozi
-    Author URI: https://bloggoblog.herokuapp.com
+    Author URI: https://faoziaziz.herokuapp.com
   */
   require 'myfunc/asek.php';
 

@@ -9,13 +9,12 @@
     ?>
 
 
-    <form action="https://ikarus-gateway.herokuapp.com/action_page.php" method="post">
+    <form action="https://ikarus-gateway.herokuapp.com/action_page.php" method="POST">
         <fieldset>
             <legend>Informasi Personal</legend>
-            Nama Depan : <br>
-            <input type="text" name="namadepan">
-            Nama Belakang: <br>
-            <input type="text" name="namabelakang">
+            Nama Depan :
+            <input type="text" name="namadepan"> <br>
+            Nama Belakang:  <input type="text" name="namabelakang"> <br>
             <input type="submit" value="Submit">
         </fieldset>
     </form>

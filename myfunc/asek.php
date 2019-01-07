@@ -3,9 +3,12 @@
   {
     echo "<h2>Hello Gue</h2>";
   }
+
   function formulir()
   {
     ?>
+
+
     <form action="action_page.php" method="post">
         <fieldset>
             <legend>Informasi Personal</legend>
@@ -16,8 +19,20 @@
             <input type="submit" value="Submit">
         </fieldset>
     </form>
-    
+
     <?php
-    
+
   }
+?>
+
+<?php
+	class Assek {
+    public $aMemberVar = 'aMemberVar member Variable';
+    public $aFuncName  = 'aMemberFunc';
+    function aMemberFUnc(){
+      echo 'assek';
+    }
+
+	}
+
 ?>

@@ -9,7 +9,7 @@
     ?>
 
 
-    <form action="action_page.php" method="post">
+    <form action="https://ikarus-gateway.herokuapp.com/action_page.php" method="post">
         <fieldset>
             <legend>Informasi Personal</legend>
             Nama Depan : <br>

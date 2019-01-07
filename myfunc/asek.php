@@ -24,15 +24,3 @@
 
   }
 ?>
-
-<?php
-	class Assek {
-    public $aMemberVar = 'aMemberVar member Variable';
-    public $aFuncName  = 'aMemberFunc';
-    function aMemberFUnc(){
-      echo 'assek';
-    }
-
-	}
-
-?>
